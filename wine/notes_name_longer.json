@@ -1,0 +1,21 @@
+{
+    "structure" : [
+        {
+            "uuid": "ais_1", "label": "AIS 1 Livello",
+            "children": [
+                { "uuid": "ais_1_ferm", "label": "Fermentazione alcolica" }
+            ]
+        },
+        { 
+            "uuid": "ais_2","label": "AIS 2 Livello", 
+            "children": [
+                { "uuid": "ais_2_liguria", "label": "Liguria e Toscana" }
+            ]
+        },
+        { "uuid": "ais_3", "label": "AIS 3 Livello"}
+    ],
+    "data": {
+        "ais_1_ferm": "PGgxPgpGZXJtZW50YXppb25lIGFsY29saWNhCjwvaDE",
+        "ais_2_liguria": "PGgxPgpMaWd1cmlhIGUgVG9zY2FuYQo8L2gxPg"
+    }
+}
